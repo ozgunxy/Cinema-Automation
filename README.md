@@ -1,1 +1,1 @@
-# Cinema-Automation
+C dilinde yazılmış basit sinema otomasyonu.
